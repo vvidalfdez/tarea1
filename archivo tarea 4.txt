@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola como estamos 
+=======
+hola como estamos 
+>>>>>>> 0a07df912951f31e4d223cd6ac70f84e15e46b31
